@@ -1,0 +1,148 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: noteblog\n"
+"POT-Creation-Date: 2018-02-03 18:35+0530\n"
+"PO-Revision-Date: 2015-10-19 13:12+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_nx;_x;esc_html_x;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:47
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:95
+msgid "Search bar"
+msgstr ""
+
+#: functions.php:100
+msgid "Enable search bar"
+msgstr ""
+
+#: inc/colors.php:41
+msgid "Colors"
+msgstr ""
+
+#: inc/colors.php:46
+msgid "Link Color"
+msgstr ""
+
+#: inc/colors.php:52
+msgid "Navigation Link Color"
+msgstr ""
+
+#: inc/colors.php:58
+msgid "Navigation Link Hover Color"
+msgstr ""
+
+#: inc/colors.php:63
+msgid "Title background Color"
+msgstr ""
+
+#: inc/front-featured-image.php:19
+msgid "Add featured image"
+msgstr ""
+
+#: inc/slideshows.php:42
+msgid "Slide 1"
+msgstr ""
+
+#: inc/slideshows.php:51
+msgid "Slide 1 alt attribute"
+msgstr ""
+
+#: inc/slideshows.php:58
+msgid "Slide 2"
+msgstr ""
+
+#: inc/slideshows.php:67
+msgid "Slide 2 alt attribute"
+msgstr ""
+
+#: inc/slideshows.php:74
+msgid "Slide 3"
+msgstr ""
+
+#: inc/slideshows.php:83
+msgid "Slide 3 alt attribute"
+msgstr ""
+
+#: inc/slideshows.php:90
+msgid "Slide 4"
+msgstr ""
+
+#: inc/slideshows.php:99
+msgid "Slide 4 alt attribute"
+msgstr ""
+
+#: inc/slideshows.php:106
+msgid "Slide 5"
+msgstr ""
+
+#: inc/slideshows.php:115
+msgid "Slide 5 alt attribute"
+msgstr ""
+
+#: inc/widgets.php:6
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets.php:14
+msgid "Left Footer"
+msgstr ""
+
+#: inc/widgets.php:23
+msgid "Middle Footer"
+msgstr ""
+
+#: inc/widgets.php:32
+msgid "Right Footer"
+msgstr ""
+
+#: index.php:109
+msgid "No contents found here"
+msgstr ""
+
+#: single.php:56 template-parts/content-post.php:51
+msgid "Pages:"
+msgstr ""
+
+#: single.php:62 template-parts/content-post.php:57
+msgid "Next page"
+msgstr ""
+
+#: single.php:63 template-parts/content-post.php:58
+msgid "Previous page"
+msgstr ""
