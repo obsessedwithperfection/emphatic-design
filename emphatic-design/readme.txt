@@ -2,14 +2,14 @@ Theme Name: emphatic-design
 Author: Anurag soni
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Version: 1.3.1.5
-Tested up to: WordPress 4.9.8
+Version: 1.3.1.6
+Tested up to: WordPress 5.2
 Tags: two-columns, right-sidebar, theme-options, custom-header, custom-colors, custom-menu, featured-images,  post-formats, sticky-post, rtl-language-support,threaded-comments
 Text Domain: emphatic-design
 
 == Description ==
 
-emphatic-design is a simple and normal wordpress theme.
+emphatic-design is a simple and normal wordpress theme. github-rep :- https://github.com/obsessedwithperfection/emphatic-design
 ----------------------------------------------------------------------------------------------------------------
 Bootstrap - http://getbootstrap.com/
 Licensed Under MIT( https://opensource.org/licenses/MIT)
